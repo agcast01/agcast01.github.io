@@ -1872,6 +1872,7 @@ article:last-child {
 .image img {
 	display: block;
 	width: 100%;
+	right: 25%;
 }
 
 .image img:hover {

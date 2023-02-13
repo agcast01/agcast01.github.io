@@ -872,6 +872,15 @@ br.clear {
 }
 
 @media screen and (min-width: 961px) and (max-width: 1620px) {
+	#skills-list {
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+
+	#skills-list li {
+		width: 33%;
+	}
 
 	.row {
 		display: flex;
@@ -1117,6 +1126,15 @@ br.clear {
 }
 
 @media screen and (min-width: 961px) and (max-width: 1320px) {
+	#skills-list {
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+
+	#skills-list li {
+		width: 33%;
+	}
 
 	.row {
 		display: flex;
@@ -2436,6 +2454,16 @@ button:active,
 		margin-left: 300px;
 	}
 
+	#skills-list {
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+
+	#skills-list li {
+		width: 33%;
+	}
+
 }
 
 /* Normal */
@@ -2450,6 +2478,16 @@ button:active,
 
 	#main section.cover {
 		padding: 5em 0;
+	}
+
+	#skills-list {
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+
+	#skills-list li {
+		width: 33%;
 	}
 
 }
@@ -2520,6 +2558,15 @@ button:active,
 
 	#main {
 		margin-left: 20%;
+	}
+
+	#skills-list {
+		display: block;
+
+	}
+
+	#skills-list li {
+		width: 100%;
 	}
 
 }
@@ -2725,6 +2772,15 @@ button:active,
 		padding: 4em 0;
 	}
 
+	#skills-list {
+		display: block;
+
+	}
+
+	#skills-list li {
+		width: 100%;
+	}
+
 }
 
 /* Mobile */
@@ -2785,4 +2841,12 @@ button:active,
 		margin-top: 0;
 	}
 
+	#skills-list {
+		display: block;
+
+	}
+
+	#skills-list li {
+		width: 100%;
+	}
 }

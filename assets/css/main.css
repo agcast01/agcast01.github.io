@@ -864,6 +864,7 @@ br.clear {
 #skills-list {
 	display: flex;
 	flex-wrap: wrap;
+	list-style: none;
 
 }
 
@@ -875,6 +876,7 @@ br.clear {
 	#skills-list {
 		display: flex;
 		flex-wrap: wrap;
+		list-style: none;
 
 	}
 
@@ -1129,6 +1131,7 @@ br.clear {
 	#skills-list {
 		display: flex;
 		flex-wrap: wrap;
+		list-style: none;
 
 	}
 
@@ -2457,6 +2460,7 @@ button:active,
 	#skills-list {
 		display: flex;
 		flex-wrap: wrap;
+		list-style: none;
 
 	}
 
@@ -2483,6 +2487,7 @@ button:active,
 	#skills-list {
 		display: flex;
 		flex-wrap: wrap;
+		list-style: none;
 
 	}
 
@@ -2562,6 +2567,7 @@ button:active,
 
 	#skills-list {
 		display: block;
+		list-style: none;
 
 	}
 
@@ -2774,7 +2780,7 @@ button:active,
 
 	#skills-list {
 		display: block;
-
+		list-style: none;
 	}
 
 	#skills-list li {
@@ -2843,7 +2849,7 @@ button:active,
 
 	#skills-list {
 		display: block;
-
+		list-style: none;
 	}
 
 	#skills-list li {

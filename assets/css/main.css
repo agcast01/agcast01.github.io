@@ -333,6 +333,11 @@ br.clear {
 	width: 1400px;
 }
 
+
+.description {
+	background-color: white;
+	size: 12px;
+}
 @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 	.container {
